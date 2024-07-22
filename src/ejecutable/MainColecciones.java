@@ -29,6 +29,13 @@ public class MainColecciones {
         ciudades1.agregar("medellin");
         ciudades1.agregar("bogota");
         ciudades1.imprimirContenido();
+        ciudades1.agregar("CALI");
         
+        ciudades1.agregar("Cartagena");
     }
+    
+                 
+    
+    
+    
 }
